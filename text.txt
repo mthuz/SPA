@@ -21,3 +21,6 @@ sua nhanh 5 lan 1
 sua nhanh 5 lan 2
 
 them nhanh 7
+them nhanh 6
+
+sua nhanh 6 lan 1
